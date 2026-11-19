@@ -7,19 +7,17 @@
    ========================================================= */
 
 const LINKS = {
-  github: "https://github.com/SEU-USUARIO",                  // [CAMPO PARA INSERIR MEU LINK]
-  linkedin: "https://www.linkedin.com/in/SEU-PERFIL",        // [CAMPO PARA INSERIR MEU LINK]
-  email: "SEU-EMAIL@exemplo.com",                            // [CAMPO PARA INSERIR MEU E-MAIL]
-  portfolio: "",                                             // [CAMPO PARA INSERIR O LINK PUBLICADO] (opcional no site)
+  github: "https://github.com/rentoxkjz11",
+  linkedin: "https://www.linkedin.com/in/renatomoura114/",
+  email: "Renatoxx278@gmail.com",
+  portfolio: "https://rentoxkjz11.github.io/portfolio/",
 };
 
 const PROJECTS = {
-  "glfit-site":  "",  // Projeto 1 — GL Fit Academia: link do site publicado
-  "glfit-repo":  "",  // Projeto 1 — GL Fit Academia: link do repositório
-  "python-demo": "",  // Projeto 2 — Python: demonstração
-  "python-repo": "",  // Projeto 2 — Python: repositório
-  "java-demo":   "",  // Projeto 3 — Java: demonstração
-  "java-repo":   "",  // Projeto 3 — Java: repositório
+  "glfit-site": "https://2b00adde-7aa2-42e9-946d-b92c492e490f-00-1lk0udao9gfu6.spock.replit.dev/",  // GL Fit Academia: site publicado
+  "glfit-repo": "",  // GL Fit Academia: link do repositório (preencher quando existir)
+  "python-repo": "https://github.com/rentoxkjz11/gerenciador-tarefas-python",  // Python: repositório
+  "java-repo": "https://github.com/rentoxkjz11/sistema-biblioteca-java",       // Java: repositório
 };
 
 /* ---------- Aplica os links na página ---------- */

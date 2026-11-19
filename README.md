@@ -8,26 +8,24 @@ Site estático feito com **HTML5, CSS3 e JavaScript**, sem frameworks e sem etap
 
 | Item | Link |
 |---|---|
-| GitHub | `[CAMPO PARA INSERIR MEU LINK]` |
-| LinkedIn | `[CAMPO PARA INSERIR MEU LINK]` |
-| Portfólio online | `[CAMPO PARA INSERIR O LINK PUBLICADO]` |
-| E-mail profissional | `[CAMPO PARA INSERIR MEU E-MAIL]` |
+| GitHub | https://github.com/rentoxkjz11 |
+| LinkedIn | https://www.linkedin.com/in/renatomoura114/ |
+| Portfólio online | https://rentoxkjz11.github.io/portfolio/ |
+| E-mail profissional | Renatoxx278@gmail.com |
 
 ## Links dos projetos
 
-**Projeto 1 — GL Fit Academia**
-- Repositório GitHub: `[LINK DO REPOSITÓRIO]`
-- Projeto publicado: `[LINK DO SITE]`
+**Projeto 1: GL Fit Academia**
+- Projeto publicado: https://2b00adde-7aa2-42e9-946d-b92c492e490f-00-1lk0udao9gfu6.spock.replit.dev/
+- Repositório GitHub: `[LINK DO REPOSITÓRIO]` (preencher)
 
-**Projeto 2 — Python**
-- Repositório GitHub: `[LINK DO REPOSITÓRIO]`
-- Projeto publicado ou demonstração: `[LINK]`
+**Projeto 2: Gerenciador de Tarefas (Python)**
+- Repositório GitHub: https://github.com/rentoxkjz11/gerenciador-tarefas-python
 
-**Projeto 3 — Java**
-- Repositório GitHub: `[LINK DO REPOSITÓRIO]`
-- Projeto publicado ou demonstração: `[LINK]`
+**Projeto 3: Sistema de Biblioteca (Java)**
+- Repositório GitHub: https://github.com/rentoxkjz11/sistema-biblioteca-java
 
-> Troque os campos acima quando tiver os links reais. Não deixe colchetes no README publicado.
+> Os links dos repositórios só funcionam depois que você criar os repositórios com esses nomes exatos no GitHub.
 
 ## Estrutura do projeto
 
